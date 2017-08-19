@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shchegrikovich&#39;s blog</title>
+    <link>http://shchegrikovich.net/</link>
+    <description>Recent content on Shchegrikovich&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Aug 2017 22:03:17 +0300</lastBuildDate>
+    
+	<atom:link href="http://shchegrikovich.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>http://shchegrikovich.net/talks/</link>
+      <pubDate>Sat, 19 Aug 2017 22:03:17 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/talks/</guid>
+      <description>ETW for .Net developers Conference - DOTNEXT (Saint Petersburg, Russia)
+http://dotnext-piter.ru/talks/shchegrikovich/
+https://www.youtube.com/watch?v=0a8lEivcZMQ</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://shchegrikovich.net/about/</link>
+      <pubDate>Sat, 19 Aug 2017 21:53:17 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/about/</guid>
+      <description>Hi,
+My name is Sergey Shchegrikovich or Siarhei Shchahrykovich. This is my personal blog. About technologies(mostly .net) and management.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://shchegrikovich.net/post/hello-world/</link>
+      <pubDate>Sat, 19 Aug 2017 21:38:47 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/post/hello-world/</guid>
+      <description>Hi</description>
+    </item>
+    
+  </channel>
+</rss>

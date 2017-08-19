@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://shchegrikovich.net/talks/</loc>
+    <lastmod>2017-08-19T22:03:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/about/</loc>
+    <lastmod>2017-08-19T21:53:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/post/hello-world/</loc>
+    <lastmod>2017-08-19T21:38:47+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/post/</loc>
+    <lastmod>2017-08-19T21:38:47+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/</loc>
+    <lastmod>2017-08-19T22:03:17+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
