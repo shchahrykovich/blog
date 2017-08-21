@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Shchegrikovich&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 21 Aug 2017 21:09:25 +0300</lastBuildDate>
     
 	<atom:link href="http://shchegrikovich.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging</title>
+      <link>http://shchegrikovich.net/tags/debugging/</link>
+      <pubDate>Mon, 21 Aug 2017 21:09:25 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://shchegrikovich.net/tags/docker/</link>
+      <pubDate>Mon, 21 Aug 2017 21:09:25 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>http://shchegrikovich.net/tags/infrastructure/</link>
+      <pubDate>Mon, 21 Aug 2017 21:09:25 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/tags/infrastructure/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

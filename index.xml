@@ -33,6 +33,17 @@ My name is Sergey Shchegrikovich or Siarhei Shchahrykovich. This is my personal 
     </item>
     
     <item>
+      <title>Configure Symbols for Debugging</title>
+      <link>http://shchegrikovich.net/post/configure-symbols-for-debugging/</link>
+      <pubDate>Mon, 21 Aug 2017 21:09:25 +0300</pubDate>
+      
+      <guid>http://shchegrikovich.net/post/configure-symbols-for-debugging/</guid>
+      <description>Some time ago I&amp;rsquo;ve made a container with SymProxy. SymProxy acts as a proxy between debugger and symbol server. The proxy caches misses and symbols files. Docker file is here.
+docker run -d -v C:\Symbols\LocalCache:C:\SymProxy shchegrikovich/symproxy  Don&amp;rsquo;t forget to upadte _NT_SYMBOL_PATH
+setx /M _NT_SYMBOL_PATH &amp;quot;cache*C:\Symbols\LocalCache;SRV**http://{container-ip}/Symbols/&amp;quot;  </description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>http://shchegrikovich.net/post/hello-world/</link>
       <pubDate>Sat, 19 Aug 2017 21:38:47 +0300</pubDate>

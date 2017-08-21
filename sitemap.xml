@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://shchegrikovich.net/post/configure-symbols-for-debugging/</loc>
+    <lastmod>2017-08-21T21:09:25+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://shchegrikovich.net/post/hello-world/</loc>
     <lastmod>2017-08-19T21:38:47+03:00</lastmod>
   </url>
@@ -23,8 +28,26 @@
   </url>
   
   <url>
+    <loc>http://shchegrikovich.net/tags/debugging/</loc>
+    <lastmod>2017-08-21T21:09:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/tags/docker/</loc>
+    <lastmod>2017-08-21T21:09:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://shchegrikovich.net/tags/infrastructure/</loc>
+    <lastmod>2017-08-21T21:09:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://shchegrikovich.net/post/</loc>
-    <lastmod>2017-08-19T21:38:47+03:00</lastmod>
+    <lastmod>2017-08-21T21:09:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,6 +59,7 @@
   
   <url>
     <loc>http://shchegrikovich.net/tags/</loc>
+    <lastmod>2017-08-21T21:09:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   

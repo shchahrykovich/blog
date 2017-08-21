@@ -196,6 +196,21 @@
       
         <article class="post-entry">
   <header class="post-header">
+    <h3 class="post-title"><a href="http://shchegrikovich.net/post/configure-symbols-for-debugging/" class="post-link">Configure Symbols for Debugging</a></h3>
+    <p class="post-meta">@Sergey Shchegrikovich · Aug 21, 2017 · 1 min read</p>
+  </header>
+  
+  <p class="post-summary">Some time ago I’ve made a container with SymProxy. SymProxy acts as a proxy between debugger and symbol server. The proxy caches misses and symbols files. Docker file is here.
+docker run -d -v C:\Symbols\LocalCache:C:\SymProxy shchegrikovich/symproxy  Don’t forget to upadte _NT_SYMBOL_PATH
+setx /M _NT_SYMBOL_PATH &#34;cache*C:\Symbols\LocalCache;SRV**http://{container-ip}/Symbols/&#34;  </p>
+  <footer class="post-footer">
+    <a class="read-more" href="http://shchegrikovich.net/post/configure-symbols-for-debugging/">Read More →</a>
+  </footer>
+</article>
+
+      
+        <article class="post-entry">
+  <header class="post-header">
     <h3 class="post-title"><a href="http://shchegrikovich.net/post/hello-world/" class="post-link">Hello World</a></h3>
     <p class="post-meta">@Sergey Shchegrikovich · Aug 19, 2017 · 1 min read</p>
   </header>
