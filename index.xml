@@ -17,9 +17,9 @@
       <pubDate>Sat, 19 Aug 2017 22:03:17 +0300</pubDate>
       
       <guid>http://shchegrikovich.net/talks/</guid>
-      <description>ETW for .Net developers Conference - DOTNEXT (Saint Petersburg, Russia)
-http://dotnext-piter.ru/talks/shchegrikovich/
-https://www.youtube.com/watch?v=0a8lEivcZMQ</description>
+      <description> 5 commandments of PDB DOTNEXT (Saint Petersburg, Russia) - https://dotnext-piter.ru/speakers/siarhei-shchahrykovich/
+ETW for .Net developers DOTNEXT (Saint Petersburg, Russia) - http://2016.dotnext-piter.ru/talks/shchegrikovich/
+ </description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=0a8lEivcZMQ</description>
       
       <guid>http://shchegrikovich.net/about/</guid>
       <description>Hi,
-My name is Sergey Shchegrikovich or Siarhei Shchahrykovich. This is my personal blog. About technologies(mostly .net) and management.</description>
+My name is Sergey Shchegrikovich or Siarhei Shchahrykovich. This is my personal blog about technologies(mostly .net) and management.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@ My name is Sergey Shchegrikovich or Siarhei Shchahrykovich. This is my personal 
       <pubDate>Sat, 19 Aug 2017 21:38:47 +0300</pubDate>
       
       <guid>http://shchegrikovich.net/post/hello-world/</guid>
-      <description>Hi</description>
+      <description>Initial commit.</description>
     </item>
     
   </channel>
